@@ -1,0 +1,1 @@
+[{"stmt":"SELECT id, name\nFROM game_type;","header":["id","name"],"rows":[["1","romance_club"],["2","atomic"],["3","sims4"],["4","stardew-valley"],["5","csgo"],["6","on.arena"]]}]

@@ -1,0 +1,1 @@
+[{"stmt":"SELECT id, game, genre\nFROM genre;","header":["id","game","genre"],"rows":[["1","atomic","шутер"],["2","sims4","social simulation game"],["3","stardw-valley","Компьютерная ролевая игра"],["4","csgo","шутер"],["5","on.arena","MOBA"],["6","romance_club","истории"]]}]
